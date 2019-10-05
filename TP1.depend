@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1523660767 source:c:\c\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"TP.h"
+
+1523659079 c:\c\tp1\tp.h
+
+1523651020 source:c:\c\tp1\tp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"TP.h"
+

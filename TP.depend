@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1523108451 source:c:\c\tp\tp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"TP.h"
+
+1522577195 c:\c\tp\tp.h
+
+1523108249 source:c:\c\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"TP.h"
+
+1524848954 source:c:\c\tp1\tp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"TP.h"
+
+1524832572 c:\c\tp1\tp.h
+
+1524848794 source:c:\c\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<ctype.h>
+	"TP.h"
+
+1523906202 c:\c\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<ctype.h>
+	"TP.h"
+
+1524848794 source:c:\users\djamel\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<windows.h>
+	<ctype.h>
+	"TP.h"
+
+1524832572 c:\users\djamel\desktop\tp1\tp.h
+
+1524848954 source:c:\users\djamel\desktop\tp1\tp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"TP.h"
+
